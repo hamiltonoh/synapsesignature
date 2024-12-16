@@ -8,6 +8,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "^3.4.3"
+numpy = "^1.22"
+
 
 [tool.poetry.dev-dependencies]
 
