@@ -1,6 +1,6 @@
 # synapsesignature
 
-In Oh et. al. Nature Medicine 2024 (doi: __), we derived a plasma-based synaptic signature of cognitive impairment for Alzheimer's disease. We trained a penalized linear model to predict cognitive impairment (CI) using SomaScan plasma proteomics data. In this tutorial, we show how to apply this signature to your own SomaScan plasma proteomics dataset.
+In Oh et. al. Nature Medicine 2024 (https://www.alzdiscovery.org/research-and-grants/funding-opportunities/biomarkers), we derived a plasma-based synaptic signature of cognitive impairment for Alzheimer's disease. We trained a penalized linear model to predict cognitive impairment (CI) using SomaScan plasma proteomics data. In this tutorial, we show how to apply this signature to your own SomaScan plasma proteomics dataset.
 
 ## Requirements
 SomaScan plasma proteomics data, assay version v4 (5,000 proteins) or above, is required. This tutorial uses numpy and pandas Python packages. Navigate to docs/Tutorial.ipynb to start!
